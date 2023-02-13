@@ -1,0 +1,24 @@
+{
+  "name": "random-ducks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odouglasoliveira/random-ducks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odouglasoliveira/random-ducks/issues"
+  },
+  "homepage": "https://github.com/odouglasoliveira/random-ducks#readme",
+  "dependencies": {
+    "vite": "^4.1.1"
+  }
+}

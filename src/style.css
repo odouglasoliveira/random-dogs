@@ -34,7 +34,12 @@ main {
   background-color: rgb(250, 250, 250, 0.1);
 }
 
-#duck-button {
+.image {
+  width: 400px;
+  height: 400px;
+}
+
+#dog-button {
   width: 160px;
   height: 40px;
   border-radius: 8px;
@@ -45,7 +50,7 @@ main {
   background-color: rgba(0, 0, 0, 0.2);
 }
 
-#duck-button:hover {
+#dog-button:hover {
   cursor: pointer;
   background-color: rgba(0, 0, 0, 0.3);
   transition: 200ms;
